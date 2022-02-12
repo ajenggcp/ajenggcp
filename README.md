@@ -5,25 +5,26 @@ Here are some ideas to get you started:
 
 -->
 
-# 👋 Hello peeps! I’m [Ajeng Cahyaning Prameswari](https://github.com/ajenggcp)
+# 👋 Hello peeps! I’m [Ajeng Cahyaning Prameswari](https://github.com/ajenggcp)🧕.
 
 <p align="center"><br/>
   
- <a href="https://linkedin.com/in/ajeng-cahyaning-prameswari-20ba611b2">
+<!--  <a href="https://linkedin.com/in/ajeng-cahyaning-prameswari-20ba611b2">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  <a href="mailto:acahyaningp@gmail.com">
   <img src="https://img.shields.io/badge/Email-tim.acahyaningp@gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
- </a>
+ </a> -->
+  
 </p>
 
 
-- 📄 Currently studying **Informatics** at the **University of Muhammadiyah Malang**
+- 📄 Currently studying **Informatics**🖥⌨🖱 at the [**University of Muhammadiyah Malang**](https://www.umm.ac.id/).
 - 💻 Interested in front-end development, android development, and more.
-- 📫 You can reach me via : [email](mailto:acahyaningp@gmail.com "acahyaningp@gmail.com"), [LinkedIn](https://www.linkedin.com/in/ajeng-cahyaning-prameswari-20ba611b2/ "ajeng-cahyaning-prameswari"), [Facebook](https://web.facebook.com/ajeng.cprameswari.7/ "Ajeng CPrameswari"), [Instagram](https://www.instagram.com/ajenggcp/ "Ajeng CPrameswari")
+- 📫 Reachable via : [Email](mailto:acahyaningp@gmail.com "acahyaningp@gmail.com"), [LinkedIn](https://www.linkedin.com/in/ajeng-cahyaning-prameswari-20ba611b2/ "ajeng-cahyaning-prameswari"), [Facebook](https://web.facebook.com/ajeng.cprameswari.7/ "Ajeng CPrameswari"), and [Instagram](https://www.instagram.com/ajenggcp/ "Ajeng CPrameswari").
 - 🗺️ Makassar - Malang, Indonesia.
 
-Optimistic in everything that needs efforts.
+Optimistic in everything that needs efforts.😀
 
 <br>
 
