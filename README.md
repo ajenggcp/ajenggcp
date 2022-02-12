@@ -34,7 +34,7 @@ Optimistic in everything that needs efforts.
 ---
 
 ### 🛠️ Technologies
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
+<!-- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -42,6 +42,16 @@ Optimistic in everything that needs efforts.
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) -->
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title = "Java"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" title = "Kotlin"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title = "Android"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-plain.svg" title = "CSS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title = "MYSQL"/></code>
+
 
 ---
