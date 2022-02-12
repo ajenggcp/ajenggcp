@@ -27,8 +27,8 @@ Optimistic in everything that needs efforts.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ajenggcp)
-![Ajeng's github stats](https://github-readme-stats.vercel.app/api/?username=ajenggcp) <!--&hide=contribs -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajenggcp&theme=tokyonight&count_private=true&langs_count=8&layout=compact)
+![Ajeng's github stats](https://github-readme-stats.vercel.app/api/?username=ajenggcp&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
 <br>
 
 ---
