@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 📄 Currently studying **Informatics**🖥⌨🖱 at the [**University of Muhammadiyah Malang**](https://www.umm.ac.id/).
+- 📄 Currently studying **Informatics**🖥 at the [**University of Muhammadiyah Malang**](https://www.umm.ac.id/).
 - 💻 Interested in front-end development, android development, and more.
 - 📫 Reachable via : [Email](mailto:acahyaningp@gmail.com "acahyaningp@gmail.com"), [LinkedIn](https://www.linkedin.com/in/ajeng-cahyaning-prameswari-20ba611b2/ "ajeng-cahyaning-prameswari"), [Facebook](https://web.facebook.com/ajeng.cprameswari.7/ "Ajeng CPrameswari"), and [Instagram](https://www.instagram.com/ajenggcp/ "Ajeng CPrameswari").
 - 🗺️ Makassar - Malang, Indonesia.
